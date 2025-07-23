@@ -1,0 +1,109 @@
+# 🚀 Roadmap – Alilux Hybrid OS
+
+A step-by-step plan from zero to launch, leveraging community support in Newport Beach, California, and beyond.
+
+---
+
+## Phase 1 – Foundation & Fundraising (Months 1–3)
+
+1. **Initiate Funding Campaign**
+
+   * Launch donation site (Open Collective/Stripe) linked on GitHub.
+   * Press release to Newport Beach local media and social channels.
+   * Email invitations to philanthropists and civic leaders in Newport Beach, CA, and US tech communities.
+2. **Community Engagement**
+
+   * Host two town-hall workshops at local community center (Newport Beach Public Library).
+   * Collect feedback on OS vision; co-create project priorities.
+   * Recruit first wave of volunteers: students, hobbyists, and retirees.
+3. **Legal & Administrative Setup**
+
+   * Finalize partnership agreement with City of Newport Beach for workspace access.
+   * Secure grants or in-kind sponsorships from local businesses.
+   * Draft MOUs with interested universities in USA, Germany, and Iran.
+
+---
+
+## Phase 2 – Team Formation & Prototype Design (Months 4–6)
+
+1. **Core Team Building**
+
+   * Hire/engage:
+
+     * 2 Mechanical Engineers (analog logic experts)
+     * 1 Electronics Engineer (sensors & biofeedback)
+     * 1 Software Lead (simulator & digital integration)
+     * 1 Community Coordinator (volunteer & outreach)
+   * Onboard volunteers for research assistance (10–15 students).
+2. **Design Workshops**
+
+   * Conduct weekly hand-drawing sessions: analog circuit sketches, state-machine diagrams.
+   * Record and digitize sketches; upload to GitHub `docs/system_diagrams`.
+3. **Early Prototype Development**
+
+   * Build first bench prototype: salt-powered logic gate module and mechanical timing rotor.
+   * Document build process and initial test results.
+
+---
+
+## Phase 3 – Pilot Testing & University Partnerships (Months 7–9)
+
+1. **Pilot Deployments**
+
+   * Install prototype kits at partner locations:
+
+     * Newport Beach High School makerspace
+     * Partner lab at University of California, Irvine
+     * Technical university in Germany (e.g., RWTH Aachen)
+   * Gather feedback and iterate designs.
+2. **Academic Collaboration**
+
+   * Formalize research projects with 3 universities (one per region).
+   * Joint workshops on analog computing in local campuses.
+   * Publish whitepaper on early lessons and share on arXiv.
+3. **Public Demonstrations**
+
+   * Present at local tech meetups and Maker Faires.
+   * Host a Hackathon weekend focusing on physical state-machine puzzles.
+
+---
+
+## Phase 4 – Expansion & Documentation (Months 10–12)
+
+1. **Refined Prototypes**
+
+   * Develop integrated laptop remote and small embedded modules.
+   * Add biofeedback sensors (temperature, skin contact) to prototype.
+   * Conduct safety and reliability tests.
+2. **Comprehensive Documentation**
+
+   * Finalize user manuals, build guides, and hand-drawn blueprints.
+   * Translate core documentation into German and Farsi.
+3. **Broader Outreach**
+
+   * Launch full GitHub Pages sites for Hybrid OS and Mist Vape.
+   * Social media campaign across LinkedIn, Twitter, and local news outlets.
+   * Establish an online community forum (Discourse).
+
+---
+
+## Phase 5 – Launch & Sustainability (Year 2+)
+
+1. **Official Product Launch**
+
+   * Release Hybrid OS simulator v1.0.
+   * Open preorders for DIY prototype kits.
+2. **Long-Term Community Governance**
+
+   * Form user committee including students, educators, and community members.
+   * Establish a non-profit foundation to steward open development.
+3. **Scale & Diversify**
+
+   * Extend technology to aviation controls, agricultural automation, and healthcare devices.
+   * Seek larger grants (NSF, EU Horizon) and corporate sponsors.
+
+---
+
+> We start small, with hand-drawn plans and local support, and grow into a global movement for human-centered computing.
+
+*© 2025 Alilux LLC | MIT License*
