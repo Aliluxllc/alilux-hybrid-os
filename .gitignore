@@ -1,55 +1,59 @@
-# Prerequisites
-*.d
-
-# Object files
+# --- Build artifacts ---
+build/
+dist/
+out/
+bin/
 *.o
-*.ko
 *.obj
-*.elf
-
-# Linker output
-*.ilk
-*.map
-*.exp
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
+*.exe
 *.dll
 *.so
-*.so.*
 *.dylib
+*.class
+*.jar
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+# --- OS generated files ---
+.DS_Store
+Thumbs.db
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
+# --- IDE / Editor files ---
+.vscode/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.swp
+*.lock
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# --- Python virtual env ---
+venv/
+.env/
+__pycache__/
+*.pyc
 
-# debug information files
-*.dwo
+# --- Logs and temp files ---
+*.log
+*.tmp
+*.temp
+
+# --- Misc ---
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- Specific to C/C++ (if applicable) ---
+*.gcda
+*.gcno
+
+# --- GitHub Actions ---
+.github/workflows/*.yml
+
+# --- Documentation builds ---
+_site/
+docs/_build/
+
+# --- Others ---
+*.bak
+*.backup
+*.old
+*.orig
